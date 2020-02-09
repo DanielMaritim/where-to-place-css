@@ -1,0 +1,8 @@
+/*this is an external css style sheet,it usually has a link to it
+ its ideal when styling is happening on many pages,
+with just one line of code change can be affected on the whole page
+this file contains only css code*/
+
+body {
+	background-color:pink;
+}
